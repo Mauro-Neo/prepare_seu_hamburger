@@ -1,4 +1,7 @@
-# prepare_teu_hamburger
+# Prepare Teu Hamburger
+Aplicação que simula o self atendimento de uma hamburgueria e também gerencia os pedidos.
+
+![Logo](./prepare_teu_hamburger.png)
 
 ## Project setup
 ```
